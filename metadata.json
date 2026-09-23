@@ -1,0 +1,6 @@
+{
+  "name": "Viva da Internet Enquanto Viaja",
+  "description": "Curso completo de nomadismo digital: jornada prática do zero ao crescimento profissional e pessoal enquanto viaja o mundo com 3 módulos estruturados, plataforma do aluno, simulador de vistos e custos, gateway global e suporte 24/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
